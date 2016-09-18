@@ -12,5 +12,6 @@ public class TestGit {
 		System.out.println("777777");
 		System.out.println("888888");
 		System.out.println("999999");
+		System.out.println("9 9 9 ");
 	}
 }
